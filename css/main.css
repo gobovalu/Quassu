@@ -45,6 +45,18 @@
 .section-podcast a{
     margin-top: 30px;
   }
+  .carousel-item p {
+    font-size: 20px !important;
+  }
+  
+  .tabs .indicator {
+    background-color: #6a1b9a !important;
+  }
+  
+  .btn-extend {
+    display: block;
+    width: 100%;
+  }
 @media(max-width: 500px){
   .section-developers,
   .section-podcast{
